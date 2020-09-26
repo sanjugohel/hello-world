@@ -1,2 +1,5 @@
 # hello-world
-its my first project on python
+
+Hello Everyone!
+
+I am just learning Github and trying to improve.
